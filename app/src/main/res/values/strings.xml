@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="cm_to_m">CM ↔ Meter</string>
+    <string name="inch_to_m">Inch ↔ Meter</string>
+    <string name="hour_to_min">Hours ↔ minute</string>
+    <string name="min_to_sec">Min ↔ Sec</string>
+    <string name="sec_to_ms">Sec ↔ MilliSeconds</string>
+    <string name="m_to_km">Meter ↔ Kilometer</string>
+
+    <string name="cm_default">Cm</string>
+    <string name="m_default">M</string>
+    <string name="inch_default">Inch</string>
+    <string name="hour_default">Hour</string>
+    <string name="min_default">Min</string>
+    <string name="sec_default">Sec</string>
+    <string name="km_default">Km</string>
+    <string name="millisec_default">ms</string>
+
+    <string name="bidirectional_vertical">↕</string>
+</resources>
